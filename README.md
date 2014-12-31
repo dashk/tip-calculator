@@ -13,6 +13,6 @@ Notes:
 
 Walkthrough of all user stories:
 
-![Video Walkthrough]()
+![Video Walkthrough](tip-calculator.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
